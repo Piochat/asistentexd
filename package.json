@@ -1,0 +1,19 @@
+{
+  "name": "asistentexd_bot",
+  "version": "1.0.0",
+  "description": "Bot para el proyecto de DW",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Bot",
+    "Telegram"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telebot": "^1.4.1"
+  }
+}
